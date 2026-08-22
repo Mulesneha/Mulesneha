@@ -39,8 +39,10 @@ https://gssoc.girlscript.org/profile/dcbe14e2-6615-419c-b598-bb41037fb6bd
 
   <img alt="gssoc-badge-rising_star (1)" width="120" src="https://github.com/user-attachments/assets/3e5efe5f-5db8-470f-80c8-6b9824023f50" />
 
-  <img src="YOUR_BADGE_3_URL" width="120" alt="GSSoC Badge 3"/>
-  <img src="YOUR_BADGE_4_URL" width="120" alt="GSSoC Badge 4"/>
+ <img width="120" alt="gssoc-badge-point_scorer" src="https://github.com/user-attachments/assets/b66581f8-0812-430e-b548-1dee7419b663" />
+
+  <img  width="120" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/b3b36c8b-bb8c-48ad-bc42-17120ba689e9" />
+
 </p>
 
 <p align="center">

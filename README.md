@@ -42,14 +42,12 @@ https://gssoc.girlscript.org/profile/dcbe14e2-6615-419c-b598-bb41037fb6bd
  <img width="120" alt="gssoc-badge-point_scorer" src="https://github.com/user-attachments/assets/b66581f8-0812-430e-b548-1dee7419b663" />
 
   <img  width="120" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/b3b36c8b-bb8c-48ad-bc42-17120ba689e9" />
+<img width="120" alt="gssoc-badge-bounty_hunter" src="https://github.com/user-attachments/assets/cf5c8f1a-1a11-490e-b5dc-d0c51b040bfe" />
 
 </p>
 
 <p align="center">
-  <img src="YOUR_BADGE_5_URL" width="120" alt="GSSoC Badge 5"/>
-  <img src="YOUR_BADGE_6_URL" width="120" alt="GSSoC Badge 6"/>
-  <img src="YOUR_BADGE_7_URL" width="120" alt="GSSoC Badge 7"/>
-  <img src="YOUR_BADGE_8_URL" width="120" alt="GSSoC Badge 8"/>
+ 
 </p>
 
 ---
